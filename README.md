@@ -1,4 +1,4 @@
-#Implémentation d'une solution ETL pour l'intégration de données de l'API Binance sous Talend
+# Implémentation d'une solution ETL pour l'intégration de données de l'API Binance sous Talend
 
 ## About The Project
 Ce projet consiste à implémenter une solution ETL (Extract-transform-load) sous **Talend Open Studio** pour une intégration de différentes sources de données depuis l'API de binance et notamment avec des scripts en **Python**, les taches à réaliser sont :
